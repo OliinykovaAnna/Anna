@@ -1,0 +1,28 @@
+# Anna
+-włącz aplikację  "kalkulator.exe"
+-wyświetl panel kalkulatora
+-podaj licbę "0"
+-wybierz liczbę/liczby rozpoczynającej działanie: liczba x
+-wybierz działanie
+--jeżeli znak "+" to dodaj liczby
+--jeżeli znak "-" to odejmij liczby
+--jeżeli znak "*" to pomnóż liczby
+--jeżeli znak "/" to podziel liczby
+--jeżeli znak "%" to wykonaj funkcję procentu
+---wprowadź liczbę y
+----pokaż wynik
+--jeśli (+/-) to pomnóż przez -1
+---pokaż wynik
+--jeśli (1/x) to podziel 1 przez wcześniej wprowadzoną liczbę
+---pokaż wynik
+--jeśli pierwiastek: spierwiastkuj liczbę x
+---wyświetl wynik
+--jeżeli (MC) to kasuj liczbę z pamięci
+--jeżeli (MR) to wyświetl liczbę z pamięci
+--jeżeli (MS) to zapisz x w pamięci kalkulatora
+--jeżeli (M+) to dodaj obliczoną liczbę do zawartości pamięci
+--jeżeli (M-) to odejmij obliczona liczbę do zawartości pamięci
+-jeżeli chcesz skasować ostatnie wyświetlanie cyfry użyj (<--)
+-jeżeli chcesz skasować ostatnie działanie użyj (C)
+-jeżeli chcesz skasować wszystko użyj (CE)
+-jeżeli "=" to pokaż wynik wszystkich poprzednich działan
